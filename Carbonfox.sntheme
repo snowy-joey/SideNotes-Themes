@@ -1,0 +1,367 @@
+{
+  "dark" : {
+    "folders" : {
+      "list" : {
+        "backgroundColor" : "#353535FF",
+        "buttonColor" : "#C693FFFF",
+        "secondaryTextColor" : "#B6B8BBFF",
+        "textColor" : "#F2F4F8FF"
+      },
+      "header" : {
+        "backgroundColor" : "#353535FF",
+        "buttonColor" : "#C693FFFF",
+        "secondaryTextColor" : "#B6B8BBFF",
+        "textColor" : "#F2F4F8FF"
+      }
+    },
+    "systemAppearance" : "dark",
+    "search" : {
+      "backgroundColor" : "#353535FF",
+      "searchField" : {
+        "textColor" : "#00CB79FF",
+        "shadow" : {
+
+        }
+      }
+    },
+    "accentColor" : "#69ABFFFF",
+    "iOS" : {
+
+    },
+    "folder" : {
+      "backgroundColor" : "#353535FF",
+      "header" : {
+        "secondaryTextColor" : "#FF62A87F",
+        "textColor" : "#F2F4F8FF",
+        "backgroundColor" : "#353535FF",
+        "buttonColor" : "#FF62A880"
+      },
+      "notes" : {
+        "colors" : [
+          {
+            "code" : {
+
+            },
+            "codeBlock" : {
+
+            },
+            "bold" : {
+
+            },
+            "header" : {
+
+            },
+            "numericListElement" : {
+
+            },
+            "strikethrough" : {
+
+            },
+            "boldItalic" : {
+
+            },
+            "mark" : {
+
+            },
+            "quote" : {
+
+            },
+            "italic" : {
+
+            },
+            "markdownMarkup" : {
+
+            },
+            "listElement" : {
+
+            },
+            "checkMark" : {
+
+            },
+            "filePreview" : {
+
+            }
+          },
+          {
+            "code" : {
+
+            },
+            "codeBlock" : {
+
+            },
+            "bold" : {
+
+            },
+            "header" : {
+
+            },
+            "numericListElement" : {
+
+            },
+            "strikethrough" : {
+
+            },
+            "boldItalic" : {
+
+            },
+            "mark" : {
+
+            },
+            "quote" : {
+
+            },
+            "italic" : {
+
+            },
+            "markdownMarkup" : {
+
+            },
+            "listElement" : {
+
+            },
+            "checkMark" : {
+
+            },
+            "filePreview" : {
+
+            }
+          },
+          {
+            "code" : {
+
+            },
+            "codeBlock" : {
+
+            },
+            "bold" : {
+
+            },
+            "header" : {
+
+            },
+            "numericListElement" : {
+
+            },
+            "strikethrough" : {
+
+            },
+            "boldItalic" : {
+
+            },
+            "mark" : {
+
+            },
+            "quote" : {
+
+            },
+            "italic" : {
+
+            },
+            "markdownMarkup" : {
+
+            },
+            "listElement" : {
+
+            },
+            "checkMark" : {
+
+            },
+            "filePreview" : {
+
+            }
+          },
+          {
+            "code" : {
+
+            },
+            "codeBlock" : {
+
+            },
+            "bold" : {
+
+            },
+            "header" : {
+
+            },
+            "numericListElement" : {
+
+            },
+            "strikethrough" : {
+
+            },
+            "boldItalic" : {
+
+            },
+            "mark" : {
+
+            },
+            "quote" : {
+
+            },
+            "italic" : {
+
+            },
+            "markdownMarkup" : {
+
+            },
+            "listElement" : {
+
+            },
+            "checkMark" : {
+
+            },
+            "filePreview" : {
+
+            }
+          },
+          {
+            "code" : {
+
+            },
+            "codeBlock" : {
+
+            },
+            "bold" : {
+
+            },
+            "header" : {
+
+            },
+            "numericListElement" : {
+
+            },
+            "strikethrough" : {
+
+            },
+            "boldItalic" : {
+
+            },
+            "mark" : {
+
+            },
+            "quote" : {
+
+            },
+            "italic" : {
+
+            },
+            "markdownMarkup" : {
+
+            },
+            "listElement" : {
+
+            },
+            "checkMark" : {
+
+            },
+            "filePreview" : {
+
+            }
+          },
+          {
+            "code" : {
+
+            },
+            "codeBlock" : {
+
+            },
+            "bold" : {
+
+            },
+            "header" : {
+
+            },
+            "numericListElement" : {
+
+            },
+            "strikethrough" : {
+
+            },
+            "boldItalic" : {
+
+            },
+            "mark" : {
+
+            },
+            "quote" : {
+
+            },
+            "italic" : {
+
+            },
+            "markdownMarkup" : {
+
+            },
+            "listElement" : {
+
+            },
+            "checkMark" : {
+
+            },
+            "filePreview" : {
+
+            }
+          }
+        ],
+        "clean" : {
+          "code" : {
+            "textColor" : "#C693FFFF"
+          },
+          "codeBlock" : {
+            "backgroundColor" : "#525253FF",
+            "textColor" : "#F2F4F8FF"
+          },
+          "bold" : {
+            "textColor" : "#F2F4F8FF"
+          },
+          "header" : {
+            "textColor" : "#69ABFFFF"
+          },
+          "backgroundColor" : "#353535FF",
+          "numericListElement" : {
+            "textColor" : "#F2F4F8FF"
+          },
+          "tertiaryTextColor" : "#B6B8BBFF",
+          "textColor" : "#F2F4F8FF",
+          "boldItalic" : {
+            "textColor" : "#69ABFFFF"
+          },
+          "strikethrough" : {
+            "textColor" : "#F2F4F8FF"
+          },
+          "barColor" : "#69ABFFFF",
+          "linkColor" : "#00CAC5FF",
+          "quote" : {
+            "backgroundColor" : "#525253FF",
+            "textColor" : "#00CB79FF",
+            "isItalic" : false
+          },
+          "mark" : {
+            "backgroundColor" : "#FF62A8FF",
+            "textColor" : "#F2F4F8FF"
+          },
+          "italic" : {
+            "textColor" : "#F2F4F8FF"
+          },
+          "markdownMarkup" : {
+            "textColor" : "#69ABFFFF"
+          },
+          "secondaryTextColor" : "#F2F4F8FF",
+          "listElement" : {
+            "textColor" : "#F2F4F8FF"
+          },
+          "enableVisualEffects" : false,
+          "checkMark" : {
+            "checkMarkColor" : "#C693FFFF",
+            "doneBackgroundColor" : "#C693FF3F",
+            "borderColor" : "#C693FFFF",
+            "doneBorderColor" : "#C693FFFF"
+          },
+          "filePreview" : {
+            "textColor" : "#F2F4F8FF"
+          }
+        }
+      }
+    }
+  }
+}
